@@ -1,0 +1,5 @@
+Hola, Buenos Dias, Me llamo Brian Abelson, lo siento no hablo espagnol, so I'm gonna speak in english.  So the title of my talk is code / power and that's an adaptation of the famous postulation of Knowledge / Power from the French theorist Michel Foucualt, and what it basically entails is that to power is constituted through accepted forms of knowledge. So to gain power, one must control or at least have a stake in the manner in which knowledge is constructed and disseminated.  And increasingly, knowledge is being constructed and disseminated through the web, which is built on code.  So if there's one overarching point to my somewhat incoherent talk, it's that learning to code is one way of obtaining power.  And I just happen to think it's a really fucking fun way of doing it.
+
+
+
+
